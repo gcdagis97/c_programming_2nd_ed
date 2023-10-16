@@ -9,3 +9,10 @@ Working through the book "C Programming: A Modern Approach", second Edition by K
 # Relevant Tools
 Ubuntu 22.04.2 x86_64 GNU/Linux  
 gcc version 11.3.0 (Ubuntu 11.3.0-1ubuntu1~22.04.1)
+
+# How-to run
+Compile with gcc:
+```gcc <filename>.c```
+
+Run the compiled executable:
+```./<executable>.out```
